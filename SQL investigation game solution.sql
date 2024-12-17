@@ -1,3 +1,4 @@
+-- This is how I found the murderer to solve the game
 SELECT person.id, person.name, 
 get_fit_now_member.membership_status, 
 get_fit_now_member.id,
