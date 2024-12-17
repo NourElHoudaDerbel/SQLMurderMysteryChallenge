@@ -1,3 +1,4 @@
+-- This is how I solved the challenge at the end of the game to find the master mind
 SELECT person.id, person.name, 
 drivers_license.height,
 drivers_license.hair_color,
